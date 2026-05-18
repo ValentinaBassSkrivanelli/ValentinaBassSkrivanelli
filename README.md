@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[banner.png](https://github.com/ValentinaBassSkrivanelli/ValentinaBass/blob/main/valentinabass.png)" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Valentina%20Bass&fontSize=60)
 
 Hello, GitHub! 👋
 
