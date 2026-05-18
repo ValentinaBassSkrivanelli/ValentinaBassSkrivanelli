@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Valentina%20Bass&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=220&section=header&text=Valentina%20Bass&fontSize=60)
 
 Hello, GitHub! 👋
 
