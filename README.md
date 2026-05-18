@@ -1,4 +1,7 @@
-# ValentinaBass
+<p align="center">
+  <img src="[banner.png](https://github.com/ValentinaBassSkrivanelli/ValentinaBass/blob/main/valentinabass.png)" />
+</p>
+
 Hello, GitHub! 👋
 
 I'm Valentina, a student at Brigham Young University-Idaho interested in Software Development such as: QA automation, Databases, and working hand in hand with artificial intelligence
