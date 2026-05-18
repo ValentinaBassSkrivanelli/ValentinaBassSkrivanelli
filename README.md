@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 
 - Skills: Committed to project deadlines and to continuing to learn and improve my skills
 
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinabassskrivanelli&show_icons=true&theme=tokyonight)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=valentinabassskrivanelli&theme=tokyonight)
 
 ## Let's Connect!
 
